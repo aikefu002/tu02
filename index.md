@@ -1,8 +1,6 @@
-## Welcome to GitHub tu02 Pages
+## Welcome to tu02 Pages
 
-You can use the [editor on GitHub](https://github.com/aikefu002/tu02/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
